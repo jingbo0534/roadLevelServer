@@ -1,0 +1,1 @@
+go build --ldflags="-w -s" src/main/RoadLevel.go

@@ -1,0 +1,10 @@
+#端口号
+DriverName mysql
+DataSourceName root:123@tcp(10.11.1.220:3306)/?charset=utf8
+dataBase zqcw
+obdDataBase zqcw_obd
+port 6380
+webport 6381
+roadLevelURI http://restapi.amap.com/v3/autograsp
+mapKey 948ce662e5e4d0707dd1797a3736951e
+#注释
